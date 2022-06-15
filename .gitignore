@@ -1,0 +1,7 @@
+
+.idea/
+TLM.Books.API/bin/
+TLM.Books.Application/bin/
+*/bin
+*/obj
+.vs/
